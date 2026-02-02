@@ -8,7 +8,7 @@
   Always learning • Analytical thinker • Collaborative communicator
 
 
-### 🚀 About Me
+### 👩‍💻 About Me
 
 I’m a data analyst with 10+ years of experience across healthcare, education, and business environments. I specialize in transforming messy data into clear insights through SQL, dashboards, and data visualization.
 
